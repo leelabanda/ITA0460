@@ -1,4 +1,3 @@
-#input name
 name = readline(prompt="Input your name: ")
 
 age =  readline(prompt="Input your age: ")
